@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd283e61.css",
+    "main.js": "/static/js/main.90a3a0e7.js",
+    "static/media/fill-stack-developer-india.jpg": "/static/media/fill-stack-developer-india.bc40f4e4401512a1ec7e.jpg",
+    "static/media/E-commerce-Website-in-uganda.jpg": "/static/media/E-commerce-Website-in-uganda.a5d17e54a5ffb19ff686.jpg",
+    "static/media/image1.jpg": "/static/media/image1.a05aa7d78b0ed3ea8bed.jpg",
+    "index.html": "/index.html",
+    "main.cd283e61.css.map": "/static/css/main.cd283e61.css.map",
+    "main.90a3a0e7.js.map": "/static/js/main.90a3a0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd283e61.css",
+    "static/js/main.90a3a0e7.js"
+  ]
+}
